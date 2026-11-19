@@ -1,4 +1,4 @@
-local line
+update
 remote line
 one more time
 789
