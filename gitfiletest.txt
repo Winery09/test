@@ -3,3 +3,4 @@ remote line
 one more time
 789
 Add line
+new branch line
